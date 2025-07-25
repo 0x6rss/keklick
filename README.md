@@ -49,7 +49,7 @@ cd keklick
 1. Clone the repository:
 ```bash
 git clone https://github.com/0x6rss/keklick.git
-cd kecklick
+cd keklick
 ```
 
 2. Install Go (version 1.21 or later):
